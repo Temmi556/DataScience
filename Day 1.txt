@@ -1,0 +1,5 @@
+#My first day in Data Scientist.
+Today I learned that Data Science is about working with data to find answers and predictions. 
+A Data Scientist collects data, analyzes it, and builds patterns like a detective. 
+I want to become a Data Scientist because I love finding patterns and I want to work in an interesting profession. 
+For example, I would analyze how much time I spend playing games to better plan my day.
