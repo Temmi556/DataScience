@@ -8,7 +8,6 @@ sales = {
     "Quantity": [50, 30, 70]
 }
 df = pd.DataFrame(sales)
-
 # Analysis
 total_sales = df["Quantity"].sum()
 average_price = np.mean(df["Price"]) 
