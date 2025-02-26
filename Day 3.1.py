@@ -7,4 +7,4 @@ data = pd.DataFrame({
     "Price": [30, 50, 20, 40, 10]
 })
 
-print(average_value(data, "Price"))
+print(average_value(data, "Price"),"$")
